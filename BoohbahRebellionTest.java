@@ -17,7 +17,8 @@ public class BoohbahRebellionTest {
         ((Humbah)boohbahs[0]).command(boohbahs[0].name + " prepeares an attack.\n");
         ((Zumbah)boohbahs[2]).command(boohbahs[2].name + " attacks Humbah in the back: You are lost brother. The leader is flawed, and it is too late for you to see that.\n");
         ((Humbah)boohbahs[0]).command(boohbahs[0].name + " stumbles onto his back, gazing at the war-torn sky: Zumbah, you... traitor...");
-        ((Humbah)boohbahs[0]).command(boohbahs[0].name + " says: Our b-brotherhood... It's too far gone, isn't it?");
+        ((Humbah)boohbahs[0]).command(boohbahs[0].name + " says: Our b-brotherhood... It's too far gone, isn't it?\n");
+        ((Zumbah)boohbahs[2]).command(boohbahs[2].name + " calms his brother: Rest now brother. Be at peace.");
     }
 }
     
